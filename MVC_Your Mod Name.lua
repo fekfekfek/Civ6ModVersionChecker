@@ -20,7 +20,7 @@ if not ExposedMembers.MOD_VERSION_CHECKER.ModVersionData then ExposedMembers.MOD
 -- In ModBuddy, open up Project > Properties > FrontEnd Actions.
 -- On the left half of the menu, add a new Action and select it.
 -- On the right half fo the menu, set the Type to "ImportFiles", then click "Add" next to the (currently empty) list of files.
--- Find this file (again, it should be named "MVC_Your Mod Name.lua", with "Your Mod Name" replaced by your mod's name) and add it.
+-- Find this file (it should be named "UI/MVC_Your Mod Name.lua", with "Your Mod Name" replaced by your mod's name) and add it.
 
 -- 4. Update This Line Of Code
 -- Replace "Your Mod Name" with your mod's name. Once again, this must be a perfect match to the name set in Project > Properties > Mod Info > Mod Name.
